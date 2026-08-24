@@ -1,0 +1,7 @@
+{
+  "name": "ip-to-telegram-vercel",
+  "version": "1.0.0",
+  "description": "A Vercel serverless function that captures a visitor's IP, sends it to a Telegram bot, and serves a simple 404 page.",
+  "license": "MIT",
+  "dependencies": {}
+}
